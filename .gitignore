@@ -1,12 +1,4 @@
-# === Python & Bytecode ===
-__pycache__/
-*.py[cod]
-*.so
-*.egg
-*.egg-info/
-dist/
-build/
-*.pyd
+
 
 # === Environment Files ===
 .env
@@ -17,15 +9,8 @@ env/
 .venv/
 
 # === PyTorch / Torchvision Caches ===
-~/.torch/
-~/.cache/
-*.pt
-*.pth
-*.ckpt
-*.log
+data train
 
-# === Jupyter Notebooks ===
-.ipynb_checkpoints
 
 # === Datasets & Downloads ===
 data/
@@ -39,7 +24,7 @@ datasets/
 *.swp
 .DS_Store
 Thumbs.db
-
+my_cnn_model.pth 
 # === Logs and Outputs ===
 *.log
 *.out
@@ -47,7 +32,6 @@ Thumbs.db
 runs/
 
 # === Model Checkpoints ===
-checkpoints/
 models/
 saved_models/
 
