@@ -1,0 +1,58 @@
+# === Python & Bytecode ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyd
+
+# === Environment Files ===
+.env
+*.env
+venv/
+ENV/
+env/
+.venv/
+
+# === PyTorch / Torchvision Caches ===
+~/.torch/
+~/.cache/
+*.pt
+*.pth
+*.ckpt
+*.log
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints
+
+# === Datasets & Downloads ===
+data/
+datasets/
+*.zip
+*.tar.gz
+
+# === IDE / Editor / OS Files ===
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# === Logs and Outputs ===
+*.log
+*.out
+*.tensorboard
+runs/
+
+# === Model Checkpoints ===
+checkpoints/
+models/
+saved_models/
+
+# === Git ===
+.git/
+
+# === Misc ===
+*.bak
