@@ -27,9 +27,7 @@ plane, car, bird, cat, deer, dog, frog, horse, ship, truck
    git clone https://github.com/SyntaxNomad/CNN-Image-Recognition-pytorch
    cd CNN-Image-Recognition-pytorch
 
-	2.	Install dependencies:
-
-pip install torch torchvision matplotlib scikit-learn
+	2.	Install dependencies: pip install torch torchvision matplotlib scikit-learn
 
 
 	3.	Run training: python main.py
