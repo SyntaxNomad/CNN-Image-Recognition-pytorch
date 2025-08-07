@@ -32,9 +32,7 @@ plane, car, bird, cat, deer, dog, frog, horse, ship, truck
 pip install torch torchvision matplotlib scikit-learn
 
 
-	3.	Run training:
-
-python main.py
+	3.	Run training: python main.py
 
 
 
