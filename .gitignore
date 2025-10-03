@@ -26,7 +26,6 @@ datasets/
 Thumbs.db
 my_cnn_model.pth 
 # === Logs and Outputs ===
-*.log
 *.out
 *.tensorboard
 runs/
