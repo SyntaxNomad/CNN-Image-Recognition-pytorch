@@ -2,7 +2,7 @@
 
 # CIFAR-10 Image Classifier with PyTorch
 
-A simple Convolutional Neural Network (CNN) built using PyTorch to classify images from the CIFAR-10 dataset. This project achieves a test accuracy of **77.8%** and includes training visualizations and a confusion matrix.
+A simple Convolutional Neural Network (CNN) built using PyTorch to classify images from the CIFAR-10 dataset. This project achieves a test accuracy of **78.1%** and includes training visualizations and a confusion matrix.
 
 ##  Features
 - CNN with 3 convolutional layers + dropout
@@ -17,9 +17,9 @@ A simple Convolutional Neural Network (CNN) built using PyTorch to classify imag
 plane, car, bird, cat, deer, dog, frog, horse, ship, truck
 
 ##  Results
-- ✅ **Test Accuracy:** 77.8%
-- 📈 Training loss and accuracy plotted
-- 📉 Confusion matrix generated
+- ✅ **Test Accuracy:** 78.1%
+-  Training loss and accuracy plotted
+-  Confusion matrix generated
 
 ##  How to Run
 1. Clone the repo:
